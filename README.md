@@ -14,13 +14,13 @@ Our mission is to make high-quality football data accessible and actionable, hel
 
 Over the years, we have built data products covering competitions across the globe, combining large-scale data collection, advanced analytics, and football expertise. This repository is part of that effort, providing access to match data from competitions that often receive limited public coverage.
 
-Learn more about [Driblab](https://www.driblab.com).
+Learn more about Driblab in [our website](https://www.driblab.com).
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/driblab)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/driblab_sports)
 
 ## 📁  Repository Structure
-* `Dataset_1`: folder with 10 files `tracking_data.jsonl` from 10 different leagues worldwide.
+* `dataset-1`: folder with 10 games `tracking_data.jsonl` from 10 different leagues worldwide.
 * `README` file.
 
 ## 💡 Overview
@@ -53,12 +53,7 @@ Each subsequent record corresponds to a tracking frame and contains the `frame` 
 
 Player and ball positions are expressed in meters using a normalized pitch coordinate system:
 
-```text
-Pitch Length: 105 m x ∈ [0, 105]
-Pitch Width : 68 m y ∈ [0, 68]
-```
-
-![Coordinate system](pitch.png)
+![Coordinate system](images/pitch.png)
 
 
 ## 🔗 Contact us
@@ -67,6 +62,6 @@ For technical questions, bug reports, business inquiries or information about Dr
 
 ## 🛠️ Version
 
-Current format version: 
+Current format version: 0.1379
 
 
