@@ -1,11 +1,4 @@
-<p align="left">
-  <a href="https://www.driblab.com/">
-    <img src="https://www.google.com/s2/favicons?sz=64&domain=driblab.com" width="58" style="vertical-align: middle;">
-  </a>
-  <span style="font-size:24px; font-weight:700; vertical-align: middle;">
-    Driblab Football Tracking Data
-  </span>
-</p>
+# <img src="https://www.google.com/s2/favicons?sz=64&domain=driblab.com" width="40"/> Driblab Football Tracking Data
 
 ## ℹ️ About us
 Driblab is a football intelligence company specialized in data collection, analytics, scouting, and decision-making tools for clubs, federations, agencies, and football professionals worldwide.
