@@ -58,7 +58,7 @@ Player and ball positions are expressed in meters using a normalized pitch coord
 
 ## 🔗 Contact us
 
-For technical questions, bug reports, business inquiries or information about Driblab products and services, visit [our website]([Driblab](https://www.driblab.com)).
+For technical questions, bug reports, business inquiries or information about Driblab products and services, visit [our website](https://www.driblab.com).
 
 ## 🛠️ Version
 
