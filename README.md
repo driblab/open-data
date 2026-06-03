@@ -21,7 +21,7 @@ Learn more about Driblab in [our website](https://www.driblab.com).
 
 ## 📁  Repository Structure
 
-- `dataset-1/`: Contains 10 match tracking data files (`tracking_data.jsonl`) from different competitions: Premier League (ENG I 2025), Serie A (ITA I 2025), LaLiga (ESP I 2025), Bundesliga (GER I 2025), Ligue 1 (FRA I 2025), and UEFA Champions League (UCL 2025).
+- `dataset-1/`: Contains 10 match tracking data files (`tracking_data.jsonl`) from major European competitions (2025 season): Premier League (ENG I 2025), Serie A (ITA I 2025), LaLiga (ESP I 2025), Bundesliga (GER I 2025), Ligue 1 (FRA I 2025), and UEFA Champions League (UCL 2025).
 - `README.md`: Project documentation.
 
 ## 💡 Overview
