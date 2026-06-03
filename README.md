@@ -20,8 +20,9 @@ Learn more about Driblab in [our website](https://www.driblab.com).
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/driblab_sports)
 
 ## 📁  Repository Structure
-* `dataset-1`: folder with 10 games `tracking_data.jsonl` from 10 different leagues worldwide.
-* `README` file.
+
+- `dataset-1/`: Contains 10 match tracking data files (`tracking_data.jsonl`) from different competitions: Premier League (ENG I 2025), Serie A (ITA I 2025), LaLiga (ESP I 2025), Bundesliga (GER I 2025), Ligue 1 (FRA I 2025), and UEFA Champions League (UCL 2025).
+- `README.md`: Project documentation.
 
 ## 💡 Overview
 
